@@ -1,4 +1,4 @@
-![banking](https://i.imgur.com/bYczP1V.jpg) 
+![banking](https://i.imgur.com/yuy9tVT.png) 
 
 
 <b>BANKING</b>
