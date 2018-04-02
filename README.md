@@ -37,7 +37,7 @@ Como necesitábamos encontrar puntos en común entre los usuarios entrevistados 
 Dentro de los hallazgos que encontramos en los usuarios era la necesidad de poder controlar y organizar sus gastos de manera eficiente. Sin embargo, el cómo lo hacían en la actualidad no los dejaba satisfechos, pues no siempre era entendible, en más de una ocasión se encontraron con alguno que otro problema, la poca información que se visualiza en los movimientos,  incluso un alto porcentaje tendía a  utilizar más de una  cuenta, no por el tipo de producto, sino para organizarse, a veces entre más de un banco.
 
 **Optimización del Tiempo**
-![Optimización de tiempo](https://github.com/naoangel/banking/blob/master/Nueva%20carpeta%20(3)/20180227_180736.jpg)
+![Optimización de tiempo](https://i.imgur.com/TFRCV2A.jpg)
 La ajetreada vida de cada uno de estos usuarios, en que su rutina se ve ceñida a diversos factores, como por ejemplo: los horarios rotativos, o extensos, entre jornadas laborales, estudiantiles, o ambas al mismo tiempo, dejar además tiempo para una vida social y familiar, genera un alto desgaste, que los dejaba sin deseos de tener que hacer más nada, ni hablar de trámites. El tiempo libre se les hace valioso y  poco disponible.
 
 **Colocando Categorías**
