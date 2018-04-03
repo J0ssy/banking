@@ -1,11 +1,11 @@
 ![banking](https://i.imgur.com/yuy9tVT.png) 
 
-
-<b>BANKING</b>
+# BANKING
 Proyecto de aplicación móvil bancaria para Millennials.
 Por Jocelyne González y Enid Veneros.
 Estudiantes UX Design - Laboratoria
 
+## Desarrollado para [Laboratoria](http://laboratoria.la)
 
 <b>OBJETIVO</b>
   Crear el flujo de una función de la aplicación. 
